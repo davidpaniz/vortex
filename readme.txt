@@ -1,3 +1,7 @@
+Based on http://wordpress.org/themes/vortex
+It is just a hack to support multiple menus
+
+
 === Vortex ===
 
 Contributors: WPVortex.com
